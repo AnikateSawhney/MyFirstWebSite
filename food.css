@@ -1,0 +1,16 @@
+h1 {
+    color: tomato;
+    font-size: 150px;
+}
+.broccoli{
+    background-color: violet;
+}
+.watermelon{
+    background-color: yellow;
+}
+#Heading{
+    color: wheat;
+}
+img:hover{
+    background-color: red;
+}
